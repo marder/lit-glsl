@@ -1,0 +1,8 @@
+{
+  "name": "@rammbulanz/lit-glsl",
+  "version": "1.0.0",
+  "main": "lit-glsl.js",
+  "repository": "https://github.com/marder/lit-glsl",
+  "author": "Marder <iwashier@gmail.com>",
+  "license": "MIT"
+}
