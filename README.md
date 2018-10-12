@@ -1,6 +1,8 @@
-> ## 🛠 Status: In Development
-> lit-glsl is currently in development. It isn't put to npmjs yet.
-> All mentioned commands in the README according to installation aren't available yet.
+> ## 🛠 Status: In Development<br>
+> lit-glsl is currently in development. It isn't put to npmjs yet.<br>
+> All mentioned commands in the README according to installation aren't available yet.<br>
+> Everything is subject to change.
+
 
 # lit-glsl
 
